@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	list-style-type: none;
+	font-family: 'Antonio', sans-serif;
+}
+
+.navbar a li {
+	margin: 0 10px;
+	text-decoration: none;
+	color: black;
+}
+.navbar a {
+	text-decoration: none;
+}
+.header {
+	background-color: #ffc017;
+	border-bottom: 1px solid black;
+}
+
+.header h1 {
+	margin-left: 10%;
+}
+
+.midarea {
+	background-color: #ffc017;
+	border-bottom: 1px solid black;
+}
